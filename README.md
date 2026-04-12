@@ -150,7 +150,7 @@ Experience integrating security into delivery pipelines:
 ### Innovation Contribution
 
 Patent Holder:
-
+[Patent-US9606900B1 ](https://patents.google.com/patent/US9606900B1/en)
 [US9606900B1](<a href="[URL](https://patents.google.com/patent/US9606900B1/en)">Patent</a>)
 
 Work focused on intelligent automation of software test scripts and requirements-driven automation optimization.
