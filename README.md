@@ -112,7 +112,7 @@ Supports structured transition toward SAP S/4HANA Finance environments.
 
 ### Cloud, API & Automation Engineering
 
-Cloud validation experience across:
+Cloud validation exposure across:
 
 - AWS
 - Azure
