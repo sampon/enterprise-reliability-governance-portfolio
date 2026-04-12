@@ -127,6 +127,7 @@ API & integration:
 Automation stack:
 
 - Robot Framework
+- Playwright
 - Selenium
 - Python
 - SQL
