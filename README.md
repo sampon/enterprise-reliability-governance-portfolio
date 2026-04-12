@@ -151,7 +151,7 @@ Experience integrating security into delivery pipelines:
 
 Patent Holder:
 
-US9606900B1
+[US9606900B1](<a href="URL">Patent</a>)
 
 Work focused on intelligent automation of software test scripts and requirements-driven automation optimization.
 
