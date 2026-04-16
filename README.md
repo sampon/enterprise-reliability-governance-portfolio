@@ -4,7 +4,7 @@
 
 Enterprise Quality Engineering leader with 20+ years of experience delivering reliability, security, accessibility, and governance across financial systems, fraud analytics platforms, and ERP manufacturing environments.
 
-Current focus is aligned toward SAP S/4HANA Finance transformation environments and AI governance-enabled enterprise systems.
+Current focus is aligned toward AI governance-enabled enterprise systems, AI trust/security and SAP S/4HANA Finance transformation environments.
 
 ---
 
