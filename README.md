@@ -183,9 +183,9 @@ These experiences strengthened:
 
 Focus areas moving forward:
 
+- AI governance alignment in enterprise platforms
 - SAP S/4HANA Finance transformation readiness
 - Financial systems reliability engineering
 - Fraud analytics platform modernization
 - Threat modeling integration into enterprise SDLC
-- AI governance alignment in enterprise platforms
 - Accessibility-first reliability engineering  
